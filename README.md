@@ -71,10 +71,11 @@ RegisterNumber:  212224240129
 ## Dataset
 
 <img width="221" height="764" alt="image" src="https://github.com/user-attachments/assets/ec4e7ef6-bbee-46eb-8cba-e8389cdcad5c" />
-Head Values
+
 ## Head
 
 <img width="209" height="172" alt="image" src="https://github.com/user-attachments/assets/56f3534c-d22c-424c-befe-41c58fe0abff" />
+
 ## Tail values
 
 <img width="220" height="178" alt="image" src="https://github.com/user-attachments/assets/d9709bd7-ca1e-43ee-85b8-82ec20fddaba" />
@@ -82,6 +83,7 @@ Head Values
 ## X and Y values
 
 <img width="953" height="797" alt="image" src="https://github.com/user-attachments/assets/de16e1e7-fee4-41c4-a7ce-ac4cc98e7565" />
+
 ## Predication values of X and Y
 
 <img width="946" height="93" alt="image" src="https://github.com/user-attachments/assets/6fd0ab70-59de-4339-9207-e48bc86037ad" />
@@ -89,6 +91,7 @@ Head Values
 ## MSE,MAE and RMSE
 
 <img width="326" height="113" alt="image" src="https://github.com/user-attachments/assets/b0b83428-c041-41aa-8c89-cebfa535de4c" />
+
 ## Training Set
 
 <img width="596" height="443" alt="image" src="https://github.com/user-attachments/assets/21e927ca-aeb1-42ea-bc1a-3649dde481d6" />
